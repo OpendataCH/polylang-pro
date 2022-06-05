@@ -1,0 +1,7 @@
+{
+    "name": "opendatach/polylang-pro",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
